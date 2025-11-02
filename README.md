@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Rajak</h1>
-<h3 align="center">I’m a Computer Science & Engineering undergraduate passionate about AI, Web Development, and Blockchain. I love building intelligent systems that automate tasks, enhance user experiences, and push the boundaries of technology.</h3>
+<h3 align="center">I’m a Computer Science & Engineering undergraduate passionate about AI, Web Development. I love building intelligent systems that automate tasks, enhance user experiences, and push the boundaries of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeprajak&label=Profile%20views&color=0e75b6&style=flat" alt="deeprajak" /> </p>
 
