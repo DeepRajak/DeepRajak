@@ -1,58 +1,32 @@
-<h1 align="center">Hi 👋, I'm Deep Rajak</h1>
-<h3 align="center">Computer Science & Engineering undergraduate building AI-powered web apps, student tools, and data-driven projects.</h3>
+# 💫 About Me:
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deeprajak&label=Profile%20views&color=0e75b6&style=flat" alt="deeprajak" />
-</p>
+### Hi 👋, I'm Deep Rajak
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deeprajak&theme=algolia&no-frame=true&margin-w=10" alt="deeprajak" />
-  </a>
-</p>
+B.Tech CSE undergraduate at **RCCIIT**, interested in **Data Analytics, Machine Learning, and AI-driven applications**.
 
-### About Me
+I build projects around real-world datasets and applications, with a focus on extracting insights from data, developing predictive models, and turning those solutions into usable products. I also develop full-stack applications when a project requires an end-to-end implementation.
 
-- 🔭 I’m currently building **AI agents and intelligent web applications**
-- 🧠 I enjoy working on **LLM-powered tools, automation, and practical AI products**
-- 🌐 I also build **interactive web experiences** and **student-focused platforms**
-- 📊 I like exploring **analytics and data-driven problem solving**
-- 🚀 My projects focus on solving real-world problems with clean, usable interfaces
+### Selected Projects
 
-### Featured Work
+- **AI Job Market Analytics** — Data analysis of trends and patterns in the AI job market.
+- **Customer Churn Analysis** — Data exploration and machine learning for identifying factors associated with customer churn.
+- **InsightFlow AI** — AI-powered platform for automated dataset analysis, visualization, and insight generation.
+- **RCCIIT Student Chatbot** — AI-powered chatbot designed to assist students with college-related information.
 
-- 🤖 **student-chatbot** — a student support chatbot for helping with academic queries
-- 📚 **learning-dashboard** — a learning dashboard built with TypeScript
-- 🧩 **dociq** — a document/intelligence-style project focused on smart workflows
-- 🖼️ **img-compressor** — a TypeScript utility for image compression
-- 📈 **customer-churn-analysis** — a notebook-based data analysis project
-- 📄 **AI-Job-Market-Analytics** — analytics project exploring job market trends around AI
-- ✨ **portfolioHTML-neon** and **portfolio-HTML** — personal portfolio builds
-- 🤖 **hackathon-ai-copilot** — an AI copilot-style project for hackathons
+### Interests
 
-### Tech Stack
+**Data Analytics · Machine Learning · Artificial Intelligence · Full-Stack Development**
 
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeprajak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deeprajak0917@gmail.com) 
 
-### Connect with Me
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/deeprajak" target="blank">LinkedIn</a> •
-  <a href="https://github.com/DeepRajak" target="blank">GitHub</a> •
-  <a href="https://portfoliohtml01-neon.vercel.app/" target="blank">Portfolio</a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deeprajak&show_icons=true&locale=en&theme=tokyonight" alt="deeprajak stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deeprajak&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deeprajak top langs" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DeepRajak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=DeepRajak&icon=0&color=0)](https://visitcount.itsvg.in)
